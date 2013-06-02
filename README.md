@@ -12,23 +12,17 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-
 send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</i>
 
 
+<h1>Welcome to the Open Datasets</h1>
+<h2>Source Repository</h2>
+
+In this repository you will find the datasets that I am using to create data visualisations
+
+Updates and dataset entries will be broadcast on twitter using my name @mcgeemade
 
 
 
-
-
-<h1>Welcome to the Open DataSets</h1>
-<h2>Source Respository</h2>
-
-In this resposibtory you will find the datasets that I am using to create data visualisations
-
-Updates and dataset entries will be braodcast on twitter using my name @mcgeemade
-
-
-<br />
-<br />
-<br />
-<br />
+<br /><br />
+<br /><br />
 
 <h4>legal notice</h4>
 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS LICENSE DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE INFORMATION PROVIDED, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM ITS USE.
